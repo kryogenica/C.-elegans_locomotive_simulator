@@ -6,6 +6,8 @@ The user can specify the type of networks used (electron micrograph connectivity
 The type of models that can be used interaction are capture in the equtions below.
 
 <img src="eq1.png?raw=true" width="400">
+<img src="eq2.png?raw=true" width="400">
+<img src="eq3.png?raw=true" width="400">
 
 It is possible to specify the type of weights used for the connectivity (binary or integer) and the ability to randomly alter these, normalize the in-degree of each neuron for both types of interactions, the initial distribution of voltages, type of model used for the chemical synapses interactions, strength of the gap junctions and chemical synapses interactions and more. Eve more one is able to specify which neurons receive a static input current, the amplitude and frequency of an undulatory input and a Gaussian random walk input.
 After the simulation has concluded the app also calculates the level of synchronicity (LoS) as per the equation below for the pair of neurons for each of the two networks for the last second of simulation time.
