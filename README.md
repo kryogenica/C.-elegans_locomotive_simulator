@@ -31,4 +31,4 @@ After the simulation has concluded the app also calculates the level of synchron
 
 Bryan E. Avila
 
-as also seen at @makselab
+as also seen at [@makselab](https://github.com/makselab)
