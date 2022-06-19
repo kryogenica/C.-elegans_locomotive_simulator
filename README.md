@@ -6,7 +6,11 @@ The user can specify the type of networks used (electron micrograph connectivity
 The type of ordinary differential equation models that can be used for neuron interactions are captured in the equtions below. The strength of the gap junctions and chemical synapses interactions can be specified and allow a network to only have either of these interaction or any combination of strength between these two with each strength being expressed between the values of 0 to 1.
 <p align="center">
 <img src="eq1.png?raw=true" width="400">
+</p>
+<p align="center">
 <img src="eq2.png?raw=true" width="150">
+</p>
+<p align="center">
 <img src="eq3.png?raw=true" width="200">
 </p>
 Addiontionaly it is possible to specify the type of weights used for the connectivity (binary or integer) and the ability to randomly alter these weights, normalize the in-degree of each neuron for both types of interactions, the initial distribution of voltages and synaptic variables, type of model used for the chemical synapses interactions and more controlls. Fianlly one is able to specify which neurons receive a static input current, the amplitude and frequency of an undulatory input and a Gaussian random walk input.
