@@ -30,3 +30,5 @@ After the simulation has concluded the app also calculates the level of synchron
 [3] Bryant Avila and Hernan Makse. Minimal balanced coloring, orbit coloring and the synchronization of locomotive neurons in C.elegans
 
 Bryan E. Avila
+
+as also seen at @makselab
